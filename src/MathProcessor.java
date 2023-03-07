@@ -9,6 +9,6 @@ public class MathProcessor extends Procesor{
         for (int i:ints){
             sum+=i;
         }
-        System.out.println("Sum je " + sum);
+        System.out.println("alooo sabane" + sum);
     }
 }
