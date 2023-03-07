@@ -99,7 +99,7 @@ public class Main {
 //}
 
 MathProcessor mathProcessor = new MathProcessor();
-mathProcessor.process(2,3);
+mathProcessor.process(4,5);
 mathProcessor.process(4,7);
     }
 }

@@ -5,7 +5,7 @@ public class Procesor {
     public void process(int i, int e){
         System.out.println("Process 2 intigera, " + i + e);
     }
-        public void process(int[] ints){
+       public void process(int[] ints){
             System.out.println("DOdaj integer list" + Arrays.toString(ints));
 
     }
